@@ -46,9 +46,10 @@
   - What is that?
   - How to find them / What do they look like in memory?
   - What are they good for / What can I do with them?
+  - Using Reclass.NET
 ### 6. Reverse Engineering the Entity Class
   - How to find which values do what?
-  - Cheat Engine: Creating Adresses/Labels from code and structs
- 
+  - Cheat Engine: Creating Adresses/Labels from code and structs (ReClass)
+  - Entity Types? Finding Strings in Ghidra
 ### more to come...
   
