@@ -1,4 +1,4 @@
-# BeginnerHackingSeries
+# Beginner Hacking Series
 ## What is this?
 * This git repo is meant to organize all of the files and DOCS which go hand-in-hand with the tutorial series on Youtube.
 ## What are some prerequisites?
