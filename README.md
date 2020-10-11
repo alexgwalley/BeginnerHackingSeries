@@ -16,7 +16,7 @@
 - Sources to delve deeper than a video series can provide, ***docs are immensely important!***
 - A space to learn and ask questions about video game hacking and modding!
 
-## What this will not include
+## What this will NOT include
 - How to bypass Anticheat. You first have to learn how to hack, only then can you move to modern games.
 - Complete beginner programming hand holding. You're assumed to have some working knowledge of a computer and computer programming. However, I will point you to sources and DOCS, you will not be assumed to know everything beforehand.
 
